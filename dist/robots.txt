@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sollyvarcoe.dev/sitemap-index.xml
